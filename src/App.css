@@ -41,3 +41,12 @@
 .MuiPickersDay-current{
   color: greenyellow !important;
 }
+
+body{
+  background:#101010;
+}
+
+.MuiPaper-elevation1 {
+  background: #101010;
+  box-shadow: none;
+}
