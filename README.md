@@ -1,3 +1,4 @@
+A simple todo app projet i did for learning react.
 
 ## Available Scripts
 
